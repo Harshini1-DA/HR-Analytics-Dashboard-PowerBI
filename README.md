@@ -1,1 +1,0 @@
-The HR Headcount Analysis Dashboard is an interactive Power BI .report designed to analyze employee data It visualizes key HR metrics such as total headcount, gender ratio, department-wise allocation, country-wise distribution, age segmentation, and job hierarchy. The dashboard supports strategic HR planning and performance monitoring.
