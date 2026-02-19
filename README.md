@@ -19,9 +19,6 @@ The dashboard helps HR teams make data-driven workforce decisions.
 - Country-wise Workforce Analysis
 - Hiring Trend Visualization
 
-## Dashboard Preview
-(Add Screenshot Here)
-
 ## Author
 Harsh  
 Aspiring Data / Business Analyst
